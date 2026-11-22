@@ -190,7 +190,7 @@ Screen and Print Styles for the Wrap Plugin
  */
 /* XXXXXXXXX /lib/tpl/bootstrap3/css/replacements.less XXXXXXXXX */
 /*!
- * DokuWiki Bootstrap3 Template: style.ini / Styling Plugin support 
+ * DokuWiki Bootstrap3 Template: style.ini / Styling Plugin support
  *
  * Home     http://dokuwiki.org/template:bootstrap3
  * Author   Giuseppe Di Terlizzi <giuseppe.diterlizzi@gmail.com>
@@ -252,7 +252,7 @@ a:link, a:visited {
 /* XXXXXXXXX /lib/tpl/bootstrap3/css/bs4-utilities.less XXXXXXXXX */
 /*!
  * Bootstrap v4 utilities backport for Bootstrap v3
- * 
+ *
  * Copyright 2019 Giuseppe Di Terlizzi <giuseppe.diterlizzi@gmail.com>
  * Copyright 2011-2019 The Bootstrap Authors
  * Copyright 2011-2019 Twitter, Inc.
@@ -841,7 +841,7 @@ works properly when clicked or hovered */
   /* XXXXXXXXX /lib/plugins/catlist/style.css XXXXXXXXX */
   /**
  * style.css for Plugin catlist
- * 
+ *
  * @license    MIT
  * @author     Félix Faisant
  *
@@ -6220,8 +6220,8 @@ Screen Styles for the Wrap Plugin (additional to all.css)
     margin-right: 0 !important;
     padding-left: 0 !important;
     padding-right: 0 !important;
-    /*background-image: url("/header2.jpg") !important;*/
-    background: linear-gradient(rgba(255,255,255,0.726),rgba(255,255,255,0.726)), url("/header2.jpg") !important;
+    /*background-image: url("header2.jpg") !important;*/
+    background: linear-gradient(rgba(255,255,255,0.726),rgba(255,255,255,0.726)), url("header2.jpg") !important;
     background-size: cover;
   }
   #dw__navbar .navbar-header {
