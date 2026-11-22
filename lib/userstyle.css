@@ -7394,6 +7394,9 @@ Screen Styles for the Wrap Plugin (additional to all.css)
   .wrap_green {
     color: green;
   }
+  .wrap_red {
+    color: red;
+  }
   .wrap_backblue {
     background: linear-gradient(transparent 75%,#6cf 75%);
   }
